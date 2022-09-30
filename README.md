@@ -5,11 +5,7 @@
 - 🔭 Hoje estudo front-end ...
 - 🌱 Estudando React, JavaScript e Css....
 
-<div align="center">
-  <a href="https://github.com/DanielSiilva">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=DanielSiilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSiilva&layout=compact&langs_count=7&theme=radical"/>
-</div>
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSiilva&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
