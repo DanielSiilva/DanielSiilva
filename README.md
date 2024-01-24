@@ -5,7 +5,7 @@
 
 ## Olá! 👋
 
-Me chamo Daniel da Silva de Sousa, sou um desenvolvedor apaixonado por tecnologia e inovação.
+Desenvolvedor web e mobile com 2 anos de experiência, focado em soluções cross-platform e bancos de dados NoSQL. Proficiente em JavaScript, Node.js, e tecnologias de front-end modernas.
 
 ## 🛠️ Tecnologias e Ferramentas
 
