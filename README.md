@@ -27,8 +27,7 @@ Desenvolvedor web e mobile com 2 anos de experiência, focado em soluções cros
 
 ### 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DanielSiilva&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=0)
-
+![DanielSiilva's Stats](https://github-readme-stats.vercel.app/api?username=DanielSiilva&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ### 🔥 Streaks
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielSiilva&theme=dark)
+![DanielSiilva's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielSiilva&theme=dark&hide_border=true)
