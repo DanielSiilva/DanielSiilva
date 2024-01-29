@@ -30,4 +30,4 @@ Desenvolvedor web e mobile com 2 anos de experiência, focado em soluções cros
 ![DanielSiilva's Stats](https://github-readme-stats.vercel.app/api?username=DanielSiilva&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 ### 🔥 Streaks
 
-![DanielSiilva's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielSiilva&theme=prussian&hide_border=true)
+![DanielSiilva's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielSiilva&theme=prussian&hide_border=true&count_private=true)
