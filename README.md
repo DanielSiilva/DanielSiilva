@@ -26,6 +26,5 @@ Desenvolvedor web e mobile com 2 anos de experiência, focado em soluções cros
 
 
 <p >
- <img height="232rem" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielSiilva&theme=prussian&hide_border=true" alt="DanielSiilva" />
+ <img height="232rem" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielSiilva&theme=react&hide_border=true" alt="DanielSiilva" />
 </p>
-
