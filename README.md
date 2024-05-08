@@ -5,7 +5,7 @@
 
 ## Olá! 👋
 
-Desenvolvedor web e mobile com 2 anos de experiência, focado em soluções cross-platform e bancos de dados NoSQL. Proficiente em JavaScript, Node.js, e tecnologias de front-end modernas.
+Desenvolvedor web e mobile, focado em soluções cross-platform e bancos de dados NoSQL. Proficiente em JavaScript, Node.js, e tecnologias de front-end modernas.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -24,7 +24,3 @@ Desenvolvedor web e mobile com 2 anos de experiência, focado em soluções cros
   <img src="https://img.shields.io/badge/-Twind_CSS-000?&logo=css3&logoColor=1572B6" height="25" />
 </p>
 
-
-<p >
- <img height="232rem" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielSiilva&theme=algolia&hide_border=true" alt="DanielSiilva" />
-</p>
